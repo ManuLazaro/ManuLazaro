@@ -68,7 +68,7 @@ As a developer, I leverage a variety of programming languages and tools to bring
 
 ### 📫 How to reach me
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/manuel-l%C3%A1zaro-velasco-5501a6232/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
@@ -80,23 +80,33 @@ As a developer, I leverage a variety of programming languages and tools to bring
 
 ---
 
-### 📚 Projects
+<div align="left">
 
-Here are some of the projects I have worked on. I focus on writing efficient, scalable, and clean code to build meaningful applications:
+## 📚 Projects  
 
-- **OficinaVirtual**: A comprehensive user management solution for sports centers, such as gyms. This system streamlines the administration of members, trainers, class schedules, and payments. The backend is built with **Java**, **Spring Boot**, and **Hibernate**, ensuring a robust and scalable architecture. The frontend, developed with **Angular**, provides a modern and intuitive interface for an optimal user experience.
+### **OficinaVirtual**  
+A comprehensive user management solution for sports centers, such as gyms. This system streamlines the administration of members, trainers, class schedules, and payments.  
 
-- 
+- **Backend**: Developed with **Java**, **Spring Boot**, and **Hibernate**, ensuring a robust and scalable architecture.  
+- **Frontend**: Built with **Angular**, providing a modern and intuitive interface for an optimal user experience.  
 
 ---
 
-## 🚀 Currently learning:
+## 🚀 Currently Learning  
 
-- **Microsoft .NET Framework**: Exploring the robust framework for Windows applications development by Microsoft. ([dotnet.microsoft.com](https://dotnet.microsoft.com/es-es/download/dotnet-framework?utm_source=chatgpt.com))  
-- **Application Security**: Strengthening my knowledge in securing applications using Spring Boot and Angular.  
-- **Unity Development**: Diving into creating interactive experiences and games using Unity.  
-- **Web Performance Optimization**: Improving my skills in optimizing performance for web applications.  
+### **Microsoft .NET Framework**  
+Exploring the robust framework for Windows applications development by Microsoft. ([dotnet.microsoft.com](https://dotnet.microsoft.com/es-es/download/dotnet-framework?utm_source=chatgpt.com))  
 
+### **Application Security**  
+Strengthening my knowledge in securing applications using **Spring Boot** and **Angular**.  
+
+### **Unity Development**  
+Diving into creating interactive experiences and games using **Unity**.  
+
+### **Web Performance Optimization**  
+Improving my skills in optimizing performance for **web applications**.  
+
+</div>
 
 ---
 
