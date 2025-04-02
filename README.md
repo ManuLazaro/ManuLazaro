@@ -2,7 +2,6 @@
   Hi! I'm <span style="color:#ff66b2;">Manuel Lázaro</span> 🚀 <span role="img" aria-label="waving-hand">👋</span>
 </h1>
 
----
 
 🎯 **Junior Developer | Passionate about coding & continuous learning** 💡  
 
