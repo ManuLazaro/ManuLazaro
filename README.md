@@ -3,6 +3,7 @@
   Hi! I'm <span style="color:#ff66b2;">Manuel Lázaro</span> 🚀
 </h2>
 
+
 ---
 
 🎯 **Junior Developer | Passionate about coding & continuous learning** 💡  
@@ -90,14 +91,13 @@ As a developer, I leverage a variety of programming languages and tools to bring
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" style="transition: transform 0.3s ease;"/>
 </a>
 
+<style>
+  /* Animación de hover */
+  a img:hover {
+    transform: scale(1.1);  /* Aumenta el tamaño de la imagen al pasar el ratón */
+  }
+</style>
 
----
-
-### 🐍 Snake Game
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/manulazaro/manulazaro/output/snake.svg" alt="Snake animation" />
 
 ---
 
@@ -119,3 +119,8 @@ Below are some of the projects I've worked on. I focus on creating efficient, sc
 
 ---
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/manulazaro/manulazaro/output/snake.svg" alt="Snake animation" />
+
+---
