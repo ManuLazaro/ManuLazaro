@@ -1,8 +1,6 @@
-<h2 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+<h1 align="center">
   Hi! I'm <span style="color:#ff66b2;">Manuel Lázaro</span> 🚀
-</h2>
-
+</h1>
 
 ---
 
