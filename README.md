@@ -1,4 +1,4 @@
-<h1>
+<h1 align="center">
   Hi! I'm <span style="color:#ff66b2;">Manuel Lázaro</span> <span role="img" aria-label="waving-hand">👋</span>
 </h1>
 
@@ -90,11 +90,12 @@ Below are some of the projects I've worked on. I focus on creating efficient, sc
 ---
 
 ## 🚀 Currently learning:
-
+<div align="left">
 - **Microsoft .NET Framework**: Exploring the robust framework for Windows applications development by Microsoft. ([dotnet.microsoft.com](https://dotnet.microsoft.com/es-es/download/dotnet-framework?utm_source=chatgpt.com))  
 - **Application Security**: Strengthening my knowledge in securing applications using Spring Boot and Angular.  
 - **Unity Development**: Diving into creating interactive experiences and games using Unity.  
 - **Web Performance Optimization**: Improving my skills in optimizing performance for web applications.  
+</div>
 
 ---
 
