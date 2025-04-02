@@ -82,20 +82,21 @@ As a developer, I leverage a variety of programming languages and tools to bring
 
 ### 📚 Projects
 
-Below are some of the projects I've worked on. I focus on creating efficient, scalable, and clean code to build meaningful applications:
+Here are some of the projects I have worked on. I focus on writing efficient, scalable, and clean code to build meaningful applications:
 
-- **OficinaVirtual**: A user management office system for a sports center like a gym. The backend is built using **Java, Spring Boot, and Hibernate**, while the frontend is developed with **Angular (modern version, using modules)**.
+- **OficinaVirtual**: A comprehensive user management solution for sports centers, such as gyms. This system streamlines the administration of members, trainers, class schedules, and payments. The backend is built with **Java**, **Spring Boot**, and **Hibernate**, ensuring a robust and scalable architecture. The frontend, developed with **Angular**, provides a modern and intuitive interface for an optimal user experience.
+
 - 
 
 ---
 
 ## 🚀 Currently learning:
-<div align="left">
+
 - **Microsoft .NET Framework**: Exploring the robust framework for Windows applications development by Microsoft. ([dotnet.microsoft.com](https://dotnet.microsoft.com/es-es/download/dotnet-framework?utm_source=chatgpt.com))  
 - **Application Security**: Strengthening my knowledge in securing applications using Spring Boot and Angular.  
 - **Unity Development**: Diving into creating interactive experiences and games using Unity.  
 - **Web Performance Optimization**: Improving my skills in optimizing performance for web applications.  
-</div>
+
 
 ---
 
