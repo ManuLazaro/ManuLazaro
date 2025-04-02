@@ -65,12 +65,6 @@ As a developer, I leverage a variety of programming languages and tools to bring
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnet/dotnet-original.svg" height="50" alt=".NET logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/springsecurity/springsecurity-original.svg" height="50" alt="Spring Security logo" />
-
-</div>
 
 ---
 
@@ -84,19 +78,6 @@ As a developer, I leverage a variety of programming languages and tools to bring
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
   </a>
 </div>
-<a href="https://www.linkedin.com/in/manuel-lázaro-velasco-5501a6232/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" style="transition: transform 0.3s ease;"/>
-</a>
-<a href="mailto:manulazaro2000@gmail.com">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" style="transition: transform 0.3s ease;"/>
-</a>
-
-<style>
-  /* Animación de hover */
-  a img:hover {
-    transform: scale(1.1);  /* Aumenta el tamaño de la imagen al pasar el ratón */
-  }
-</style>
 
 
 ---
