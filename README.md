@@ -64,22 +64,36 @@ As a developer, I leverage a variety of programming languages and tools to bring
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnet/dotnet-original.svg" height="50" alt=".NET logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/springsecurity/springsecurity-original.svg" height="50" alt="Spring Security logo" />
+
 </div>
 
 ---
 
 ### 📫 How to reach me
 
-I'm always open to collaborating on exciting projects or chatting about tech!
+<div align="left">
+  <a href="https://www.linkedin.com/in/manuel-l%C3%A1zaro-velasco-5501a6232/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
+  </a>
+  <a href="mailto:manulazaro2000@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
+  </a>
+</div>
+<a href="https://www.linkedin.com/in/manuel-lázaro-velasco-5501a6232/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" style="transition: transform 0.3s ease;"/>
+</a>
+<a href="mailto:manulazaro2000@gmail.com">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" style="transition: transform 0.3s ease;"/>
+</a>
 
-- [LinkedIn](https://www.linkedin.com/in/manuel-l%C3%A1zaro-velasco-5501a6232/)  
-- [Email me](mailto:manulazaro2000@gmail.com)  
 
 ---
 
 ### 🐍 Snake Game
-
-Check out my Snake game animation to see a fun aspect of my work that represents my constant evolution as a developer. It also highlights my experience with GitHub Actions and automating workflows.
 
 <br clear="both">
 
@@ -91,45 +105,17 @@ Check out my Snake game animation to see a fun aspect of my work that represents
 
 Below are some of the projects I've worked on. I focus on creating efficient, scalable, and clean code to build meaningful applications:
 
-- **[Project Name](#)**: A short description of the project.
-- **[Project Name](#)**: A short description of the project.
+- 
+- 
 
 ---
 
-### 🔧 Continuous Improvement
+## 🚀 Currently learning:
 
-As a developer, I'm always seeking to improve and learn. I embrace best practices in development, including:
-
-- Writing clean, maintainable code
-- Implementing automated testing (unit, integration, and end-to-end)
-- Following SOLID principles
-- Leveraging design patterns for scalable and reusable code
-- Using version control effectively with Git and GitHub
-
-I strive to ensure my projects are built with the highest standards of performance and reliability in mind.
+- **Microsoft .NET Framework**: Exploring the robust framework for Windows applications development by Microsoft. ([dotnet.microsoft.com](https://dotnet.microsoft.com/es-es/download/dotnet-framework?utm_source=chatgpt.com))
+- **Application Security**: Strengthening my knowledge in securing applications using Spring Boot and Angular.
+- **Unity Development**: Diving into creating interactive experiences and games using Unity.
+- **Web Performance Optimization**: Improving my skills in optimizing performance for web applications.
 
 ---
 
-### 📚 Tech Blog
-
-I share my experiences, learning resources, and tutorials through my tech blog. Feel free to check it out for insights into various programming topics and technologies.
-
----
-
-### 🚀 Currently learning:
-
-- Advanced JavaScript and TypeScript
-- Web performance optimization
-- Cloud computing (AWS, Azure)
-- CI/CD pipelines
-- Machine learning basics
-
----
-
-### 📝 Fun Facts
-
-- I'm passionate about open-source contributions.
-- I enjoy solving algorithmic challenges (check out my [LeetCode profile](#)).
-- In my free time, I like to explore the latest trends in tech and innovation.
-
----
