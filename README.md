@@ -93,6 +93,22 @@ A comprehensive user management solution for sports centers, such as gyms. This 
 - **Frontend**: Built with **Angular**, providing a modern and intuitive interface for an optimal user experience.  
 
 ---
+### **padel_proyecto**  
+A mobile application focused on **padel court reservations**, designed to streamline the booking process for users and court administrators.
+
+- **Technologies**: **Dart**, **Flutter**  
+- **Features**: Court reservation system, user authentication, availability calendar.  
+- **Goal**: Provide a smooth, user-friendly experience for managing padel matches and bookings.  
+
+---
+### **odoo-dev**  
+Custom module development within the **Odoo ERP** platform to extend its default functionalities and adapt it to specific business needs.
+
+- **Technologies**: **Python**, **Odoo**, **XML**, **PostgreSQL**  
+- **Focus**: Module creation, backend logic, data modeling, and business workflow customization within Odoo.  
+- **Goal**: Improve business process automation and create tailored ERP features.  
+
+---
 
 ## 🚀 Currently Learning  
 
