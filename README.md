@@ -91,7 +91,7 @@ A comprehensive user management solution for sports centers, such as gyms. This 
 
 - **Backend**: Developed with **Java**, **Spring Boot**, and **Hibernate**, ensuring a robust and scalable architecture.  
 - **Frontend**: Built with **Angular**, providing a modern and intuitive interface for an optimal user experience.  
-
+[🔗 Ver proyecto en GitHub](https://github.com/ManuLazaro/OficinaVirtual)
 ---
 ### **padel_proyecto**  
 A mobile application focused on **padel court reservations**, designed to streamline the booking process for users and court administrators.
@@ -99,7 +99,7 @@ A mobile application focused on **padel court reservations**, designed to stream
 - **Technologies**: **Dart**, **Flutter**  
 - **Features**: Court reservation system, user authentication, availability calendar.  
 - **Goal**: Provide a smooth, user-friendly experience for managing padel matches and bookings.  
-
+[🔗 Ver proyecto en GitHub](https://github.com/ManuLazaro/padel_proyecto)
 ---
 ### **odoo-dev**  
 Custom module development within the **Odoo ERP** platform to extend its default functionalities and adapt it to specific business needs.
@@ -107,7 +107,7 @@ Custom module development within the **Odoo ERP** platform to extend its default
 - **Technologies**: **Python**, **Odoo**, **XML**, **PostgreSQL**  
 - **Focus**: Module creation, backend logic, data modeling, and business workflow customization within Odoo.  
 - **Goal**: Improve business process automation and create tailored ERP features.  
-
+[🔗 Ver proyecto en GitHub](https://github.com/ManuLazaro/odoo-dev)
 ---
 
 ## 🚀 Currently Learning  
