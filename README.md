@@ -113,7 +113,7 @@ Custom module development within the **Odoo ERP** platform to extend its default
 ## 🚀 Currently Learning  
 
 ### **Microsoft .NET Framework**  
-Exploring the robust framework for Windows applications development by Microsoft. ([dotnet.microsoft.com](https://dotnet.microsoft.com/es-es/download/dotnet-framework?utm_source=chatgpt.com))  
+Exploring the robust framework for Windows applications development by Microsoft. [🔗 Ver proyecto en GitHub](https://github.com/ManuLazaro/LabProductionSystems)
 
 ### **Application Security**  
 Strengthening my knowledge in securing applications using **Spring Boot** and **Angular**.  
