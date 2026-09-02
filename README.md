@@ -6,18 +6,8 @@
 
 <img src="https://api.iconify.design/lucide:target.svg?color=%23ff66b2" height="18" style="vertical-align: -3px;" /> **Desarrollador Junior | Apasionado por la programación y el aprendizaje continuo** 💡  
 
-<img src="https://api.iconify.design/lucide:laptop.svg?color=%236366f1" height="18" style="vertical-align: -3px;" /> **Entusiasta de la tecnología | Siempre explorando nuevas herramientas** <img src="https://api.iconify.design/lucide:map-pin.svg?color=%2310b981" height="18" style="vertical-align: -3px;" /> **Desde Aranda de Duero, Burgos** 🇪🇸  
-
----
-
-## <img src="https://api.iconify.design/lucide:bar-chart-2.svg?color=%236366f1" height="22" style="vertical-align: -4px;" /> Estadísticas y Tecnologías
-
-📌 *"Codificar, depurar, aprender, repetir: el ciclo de crecimiento del desarrollador."*
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ManuLazaro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ManuLazaro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=radical&hide_border=false" height="150" alt="languages graph" />
-</div>
+<img src="https://api.iconify.design/lucide:laptop.svg?color=%236366f1" height="18" style="vertical-align: -3px;" /> **Entusiasta de la tecnología | Siempre explorando nuevas herramientas** <img src="https://api.iconify.design/lucide:map-pin.svg?color=%2310b981" height="18" style="vertical-align: -3px;" /> 
+**Desde Aranda de Duero, Burgos** 🇪🇸  
 
 ---
 
