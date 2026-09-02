@@ -1,74 +1,73 @@
 <h1 align="center">
-  Hi! I'm <span style="color:#ff66b2;">Manuel Lázaro</span> <span role="img" aria-label="waving-hand">👋</span>
+  ¡Hola! Soy <span style="color:#ff66b2;">Manuel Lázaro</span> <img src="https://api.iconify.design/twemoji:waving-hand.svg" height="24" style="vertical-align: -4px;" />
 </h1>
 
 ---
 
-🎯 **Junior Developer | Passionate about coding & continuous learning** 💡  
+<img src="https://api.iconify.design/lucide:target.svg?color=%23ff66b2" height="18" style="vertical-align: -3px;" /> **Desarrollador Junior | Apasionado por la programación y el aprendizaje continuo** 💡  
 
-💻 **Tech Enthusiast | Always exploring new technologies**  
-
-🌍 **From Aranda de Duero, Burgos** 🇪🇸  
+<img src="https://api.iconify.design/lucide:laptop.svg?color=%236366f1" height="18" style="vertical-align: -3px;" /> **Entusiasta de la tecnología | Siempre explorando nuevas herramientas** <img src="https://api.iconify.design/lucide:map-pin.svg?color=%2310b981" height="18" style="vertical-align: -3px;" /> **Desde Aranda de Duero, Burgos** 🇪🇸  
 
 ---
 
-## 🚀 Tech Stack & Stats
+## <img src="https://api.iconify.design/lucide:bar-chart-2.svg?color=%236366f1" height="22" style="vertical-align: -4px;" /> Estadísticas y Tecnologías
 
-📌 *"Code, debug, learn, repeat – the developer’s cycle of growth."*
+📌 *"Codificar, depurar, aprender, repetir: el ciclo de crecimiento del desarrollador."*
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ManuLazaro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ManuLazaro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=radical&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ManuLazaro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=es&hide_border=false" height="150" alt="Gráfica de estadísticas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ManuLazaro&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=radical&hide_border=false" height="150" alt="Gráfica de lenguajes" />
 </div>
 
 ---
 
-<img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
+<img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-### 🛠️ Languages & Tools
+### <img src="https://api.iconify.design/lucide:cpu.svg?color=%2310b981" height="22" style="vertical-align: -4px;" /> Lenguajes y Herramientas
 
-As a developer, I leverage a variety of programming languages and tools to bring ideas to life:
+Como desarrollador, utilizo una variedad de lenguajes de programación y herramientas para dar vida a las ideas:
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" alt="Spring Boot logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" alt="Spring Boot" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" height="50" alt="Hibernate logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" height="50" alt="Hibernate" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="50" alt="Angular logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="50" alt="Angular" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="50" alt="Dart logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="50" alt="Dart" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="C++ logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="C++" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="C# logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="C#" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="PostgreSQL logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="PostgreSQL" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="MongoDB logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="MongoDB" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker" />
+</div>
 
 ---
 
-## 📩 Open to Opportunities  
+## <img src="https://api.iconify.design/lucide:briefcase.svg?color=%23f59e0b" height="22" style="vertical-align: -4px;" /> Abierto a Oportunidades
 
-I am looking for exciting **developer roles** where I can contribute my skills and grow professionally. Feel free to **reach out** if you think I’d be a great fit for your team!  
+Estoy en busca de **roles de desarrollo** emocionantes donde pueda aportar mis habilidades y crecer profesionalmente. ¡No dudes en **contactarme** si crees que encajo en tu equipo!  
 
 <div align="center">
   <a href="https://www.linkedin.com/in/manuel-l%C3%A1zaro-velasco-5501a6232/" target="_blank">
@@ -81,48 +80,62 @@ I am looking for exciting **developer roles** where I can contribute my skills a
 
 ---
 
-
 <div align="left">
 
-## 📚 Projects  
+## <img src="https://api.iconify.design/lucide:folder-git-2.svg?color=%233b82f6" height="22" style="vertical-align: -4px;" /> Proyectos Destacados
 
-### **OficinaVirtual**  
-A comprehensive user management solution for sports centers, such as gyms. This system streamlines the administration of members, trainers, class schedules, and payments.  
+### **OficinaVirtual** Solución completa de gestión para centros deportivos como gimnasios. Este sistema agiliza la administración de usuarios, entrenadores, horarios de clases y pagos.  
 
-- **Backend**: Developed with **Java**, **Spring Boot**, and **Hibernate**, ensuring a robust and scalable architecture.  
-- **Frontend**: Built with **Angular**, providing a modern and intuitive interface for an optimal user experience.  
+- **Backend**: Desarrollado con **Java**, **Spring Boot** y **Hibernate**, asegurando una arquitectura robusta y escalable.  
+- **Frontend**: Construido con **Angular**, proporcionando una interfaz moderna e intuitiva para una experiencia de usuario óptima.  
 [🔗 Ver proyecto en GitHub](https://github.com/ManuLazaro/OficinaVirtual)
----
-### **padel_proyecto**  
-A mobile application focused on **padel court reservations**, designed to streamline the booking process for users and court administrators.
 
-- **Technologies**: **Dart**, **Flutter**  
-- **Features**: Court reservation system, user authentication, availability calendar.  
-- **Goal**: Provide a smooth, user-friendly experience for managing padel matches and bookings.  
+---
+
+### **LabProductionSystems** Plataforma unificada para laboratorios farmacéuticos que integra Operaciones de Fabricación (MOM), LIMS, PDM e I+D.  
+
+- **Tecnologías**: **.NET**, **C#**, **MySQL**, **HTML5** - **Enfoque**: Monitorización de producción, control de calidad, trazabilidad y flujos de trabajo de laboratorio a planta.  
+[🔗 Ver proyecto en GitHub](https://github.com/ManuLazaro/LabProductionSystems)
+
+---
+
+### **IA-text-corrector-nlp** Herramienta basada en Python y AWS para el refinamiento de textos automatizado, corrección de pruebas y gramática mediante técnicas de Procesamiento del Lenguaje Natural (PLN).  
+
+- **Tecnologías**: **Python**, **AWS**, **NLP** - **Enfoque**: Automatización de tareas lingüísticas e integración en la nube.  
+[🔗 Ver proyecto en GitHub](https://github.com/ManuLazaro/IA-text-corrector-nlp)
+
+---
+
+### **BandleEspanol** Juego en desarrollo inspirado en la aplicación "Bandle", enfocado en adivinar canciones a partir de diferentes pistas de audio.  
+
+- **Tecnologías**: **.NET**, **C#** - **Enfoque**: Lógica de juego, gestión de audio y desarrollo interactivo.  
+[🔗 Ver proyecto en GitHub](https://github.com/ManuLazaro/BandleEspanol)
+
+---
+
+### **padel_proyecto** Aplicación móvil centrada en la **reserva de pistas de pádel**, diseñada para optimizar el proceso de reserva tanto para los usuarios como para los administradores.  
+
+- **Tecnologías**: **Dart**, **Flutter** - **Características**: Sistema de reservas, autenticación de usuarios y calendario de disponibilidad.  
 [🔗 Ver proyecto en GitHub](https://github.com/ManuLazaro/padel_proyecto)
----
-### **odoo-dev**  
-Custom module development within the **Odoo ERP** platform to extend its default functionalities and adapt it to specific business needs.
 
-- **Technologies**: **Python**, **Odoo**, **XML**, **PostgreSQL**  
-- **Focus**: Module creation, backend logic, data modeling, and business workflow customization within Odoo.  
-- **Goal**: Improve business process automation and create tailored ERP features.  
+---
+
+### **odoo-dev** Desarrollo de módulos personalizados dentro de la plataforma **ERP Odoo** para ampliar sus funcionalidades por defecto y adaptarlas a necesidades empresariales específicas.  
+
+- **Tecnologías**: **Python**, **Odoo**, **XML**, **PostgreSQL** - **Enfoque**: Creación de módulos, lógica de backend y automatización de procesos de negocio.  
 [🔗 Ver proyecto en GitHub](https://github.com/ManuLazaro/odoo-dev)
+
 ---
 
-## 🚀 Currently Learning  
+## <img src="https://api.iconify.design/lucide:book-open.svg?color=%23a855f7" height="22" style="vertical-align: -4px;" /> Actualmente Aprendiendo
 
-### **Microsoft .NET Framework**  
-Exploring the robust framework for Windows applications development by Microsoft. [🔗 Ver proyecto en GitHub](https://github.com/ManuLazaro/LabProductionSystems)
+### **Microsoft .NET Framework** Explorando este robusto framework para el desarrollo de aplicaciones avanzadas. [🔗 Ver repositorio](https://github.com/ManuLazaro/LabProductionSystems)
 
-### **Application Security**  
-Strengthening my knowledge in securing applications using **Spring Boot** and **Angular**.  
+### **Seguridad en Aplicaciones** Profundizando en conocimientos para securizar aplicaciones utilizando **Spring Boot** y **Angular**.  
 
-### **Unity Development**  
-Diving into creating interactive experiences and games using **Unity**.  
+### **Desarrollo con Unity** Adentrándome en la creación de experiencias interactivas y videojuegos mediante **Unity**.  
 
-### **Web Performance Optimization**  
-Improving my skills in optimizing performance for **web applications**.  
+### **Optimización del Rendimiento Web** Mejorando mis habilidades en la optimización de velocidad y rendimiento para **aplicaciones web**.  
 
 </div>
 
@@ -130,6 +143,4 @@ Improving my skills in optimizing performance for **web applications**.
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/manulazaro/manulazaro/output/snake.svg" alt="Snake animation" />
-
----
+<img src="https://raw.githubusercontent.com/manulazaro/manulazaro/output/snake.svg" alt="Animación de Snake" />
