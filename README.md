@@ -13,10 +13,8 @@
 
 ### <img src="https://api.iconify.design/lucide:cpu.svg?color=%2310b981" height="22" style="vertical-align: -4px;" /> Lenguajes y Herramientas
 
-Como desarrollador, utilizo un stack tecnológico organizado por áreas para dar vida a las aplicaciones:
-
 <p align="center">
-  <table width="100%" style="width: 100%; table-layout: fixed;">
+  <table width="100%" style="width: 200%; table-layout: fixed;">
     <colgroup>
       <col style="width: 22%;">
       <col style="width: 78%;">
