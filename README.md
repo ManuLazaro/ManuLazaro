@@ -7,25 +7,52 @@
 <img src="https://api.iconify.design/lucide:target.svg?color=%23ff66b2" height="18" style="vertical-align: -3px;" /> **Desarrollador Junior | Apasionado por la programación y el aprendizaje continuo** 💡  
 
 <img src="https://api.iconify.design/lucide:laptop.svg?color=%236366f1" height="18" style="vertical-align: -3px;" /> **Entusiasta de la tecnología | Siempre explorando nuevas herramientas** <img src="https://api.iconify.design/lucide:map-pin.svg?color=%2310b981" height="18" style="vertical-align: -3px;" />  
-**Desde Aranda de Duero, Burgos** 🇪🇸  
+**Desde Aranda de Duero, Burgos** <img src="https://api.iconify.design/twemoji:flag-spain.svg" height="18" style="vertical-align: -3px;" />  
 
 ---
-
-<img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ### <img src="https://api.iconify.design/lucide:cpu.svg?color=%2310b981" height="22" style="vertical-align: -4px;" /> Lenguajes y Herramientas
 
 Como desarrollador, utilizo un stack tecnológico organizado por áreas para dar vida a las aplicaciones:
 
-| Categoría | Tecnologías y Herramientas |
-| :--- | :--- |
-| **Java Ecosystem** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="24" alt="Java"/> **Java** &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="24" alt="Spring"/> **Spring Boot** &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" height="24" alt="Hibernate"/> **Hibernate** |
-| **Frontend** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="24" alt="Angular"/> **Angular** &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="24" alt="JavaScript"/> **JavaScript** &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="24" alt="TypeScript"/> **TypeScript** |
-| **.NET Ecosystem** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="24" alt="C#"/> **C#** &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="24" alt=".NET"/> **.NET** |
-| **Python & AI** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="24" alt="Python"/> **Python** |
-| **Sistemas / Otros** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="24" alt="C++"/> **C++** &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="24" alt="Dart"/> **Dart** |
-| **Bases de Datos** 🗄️ | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="24" alt="MySQL"/> **MySQL** &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="24" alt="PostgreSQL"/> **PostgreSQL** &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="24" alt="MongoDB"/> **MongoDB** |
-| **Herramientas** 🛠️ | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="24" alt="Docker"/> **Docker** &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="24" alt="Node.js"/> **Node.js** |
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="left" width="25%">Categoría</th>
+      <th align="left" width="75%">Tecnologías y Herramientas</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Java Ecosystem</strong></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="24" alt="Java"/> <strong>Java</strong> &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="24" alt="Spring"/> <strong>Spring Boot</strong> &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" height="24" alt="Hibernate"/> <strong>Hibernate</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Frontend</strong></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="24" alt="Angular"/> <strong>Angular</strong> &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="24" alt="JavaScript"/> <strong>JavaScript</strong> &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="24" alt="TypeScript"/> <strong>TypeScript</strong></td>
+    </tr>
+    <tr>
+      <td><strong>.NET Ecosystem</strong></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="24" alt="C#"/> <strong>C#</strong> &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="24" alt=".NET"/> <strong>.NET</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Python & AI</strong></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="24" alt="Python"/> <strong>Python</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Sistemas / Otros</strong></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="24" alt="C++"/> <strong>C++</strong> &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="24" alt="Dart"/> <strong>Dart</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Bases de Datos</strong> 🗄️</td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="24" alt="MySQL"/> <strong>MySQL</strong> &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="24" alt="PostgreSQL"/> <strong>PostgreSQL</strong> &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="24" alt="MongoDB"/> <strong>MongoDB</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Herramientas</strong> 🛠️</td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="24" alt="Docker"/> <strong>Docker</strong> &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="24" alt="Node.js"/> <strong>Node.js</strong></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
@@ -46,44 +73,54 @@ Estoy en busca de **roles de desarrollo** emocionantes donde pueda aportar mis h
 
 <div align="left">
 
-## <img src="https://api.iconify.design/lucide:folder-git-2.svg?color=%233b82f6" height="22" style="vertical-align: -4px;" /> Proyectos Destacados
+## <img src="https://api.iconify.design/lucide:folder-git-2.svg?color=%233b82f6" height="22" style="vertical-align: -4px;" /> Proyectos Destacros
 
-### ☕ Ecosystem Java
+### ☕ Ecosistema Java
 
-#### **Oficina Virtual** Solución completa de gestión para centros deportivos y gimnasios. Agiliza la administración de usuarios, entrenadores, horarios y pagos.  
+#### Oficina Virtual
+Solución completa de gestión para centros deportivos y gimnasios. Agiliza la administración de usuarios, entrenadores, horarios y pagos.  
 - **Backend:** Java, Spring Boot, Hibernate  
 - **Frontend:** Angular  
 [🔗 Ver proyecto en GitHub](https://github.com/ManuLazaro/OficinaVirtual)
 
----
+<br>
 
-### 🔷 Ecosystem .NET
+### 🔷 Ecosistema .NET
 
-#### **Lab Production Systems** Plataforma unificada para laboratorios farmacéuticos que integra operaciones de fabricación (MOM), LIMS, PDM e I+D.  
+#### Lab Production Systems
+Plataforma unificada para laboratorios farmacéuticos que integra operaciones de fabricación (MOM), LIMS, PDM e I+D.  
 - **Tecnologías:** .NET, C#, MySQL, HTML5  
 [🔗 Ver proyecto en GitHub](https://github.com/ManuLazaro/LabProductionSystems)
 
-#### **Bundle en Español** *(Trabajando en él 🚧)* Juego interactivo inspirado en la aplicación "Bandle", enfocado en adivinar canciones a partir de pistas de audio.  
+<br>
+
+#### Bundle en Español *(Trabajando en él 🚧)*
+Juego interactivo inspirado en la aplicación "Bandle", enfocado en adivinar canciones a partir de pistas de audio.  
 - **Tecnologías:** .NET, C#  
 [🔗 Ver proyecto en GitHub](https://github.com/ManuLazaro/BandleEspanol)
 
----
+<br>
 
 ### 🐍 Python & AI
 
-#### **AI Text Corrector** Herramienta basada en Python y AWS para el refinamiento de textos automatizado y corrección gramatical mediante PLN.  
+#### AI Text Corrector
+Herramienta basada en Python y AWS para el refinamiento de textos automatizado y corrección gramatical mediante PLN.  
 - **Tecnologías:** Python, AWS, NLP  
 [🔗 Ver proyecto en GitHub](https://github.com/ManuLazaro/IA-text-corrector-nlp)
 
----
+<br>
 
 ### 📦 Otros Proyectos
 
-#### **Padel Proyecto** Aplicación móvil centrada en la reserva de pistas de pádel, optimizando la disponibilidad y la gestión para usuarios y administradores.  
+#### Padel Proyecto
+Aplicación móvil centrada en la reserva de pistas de pádel, optimizando la disponibilidad y la gestión para usuarios y administradores.  
 - **Tecnologías:** Dart, Flutter  
 [🔗 Ver proyecto en GitHub](https://github.com/ManuLazaro/padel_proyecto)
 
-#### **Odoo Dev** Desarrollo de módulos personalizados dentro de la plataforma ERP Odoo para adaptarla a necesidades empresariales específicas.  
+<br>
+
+#### Odoo Dev
+Desarrollo de módulos personalizados dentro de la plataforma ERP Odoo para adaptarla a necesidades empresariales específicas.  
 - **Tecnologías:** Python, Odoo, XML, PostgreSQL  
 [🔗 Ver proyecto en GitHub](https://github.com/ManuLazaro/odoo-dev)
 
